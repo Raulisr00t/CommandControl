@@ -1,4 +1,4 @@
-##### Raul Mansurov C2 SERVER #########
+# Raul Mansurov C2 SERVER #
 
 ### Description of project
 
@@ -22,7 +22,6 @@ pip install requests colorama pyautogui pyuac psutil pyfiglet termcolor crytogra
 ### Instructions for running the script
 
 If you want to run exe file you can do it with double click in Windows,If you want to watch my decryption algoritm you can see decrypt.py --> c2_decrypt.py,My project contains 4 file command_control_server.py,command_control_client.py,exe file for windows os,c2_decrypt.py,README.md and finally requirements.txt
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 You must run before server for receive the connection
 
 You can run my python script:
