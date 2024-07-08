@@ -1,4 +1,4 @@
-# Raul Mansurov C2 SERVER #
+# Raulisr00t C2 SERVER #
 
 ### Description of project
 
